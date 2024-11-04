@@ -7,6 +7,8 @@
 LightSGCN: Powering Signed Graph Convolution Network for
 Link Sign Prediction with Simplified Architecture Design
 
+![model](./assets/figure.png)
+
 ## Requirements
 
 - Please refer to [pytorch](https://pytorch.org/get-started/previous-versions/) for the detailed installation instructions.
