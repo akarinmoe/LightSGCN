@@ -2,7 +2,7 @@
 
 ## Overview
 
-- This is an unofficial implementation of LightSGCN
+**This is an unofficial implementation of LightSGCN**
 
 LightSGCN: Powering Signed Graph Convolution Network for
 Link Sign Prediction with Simplified Architecture Design
